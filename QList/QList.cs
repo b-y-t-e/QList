@@ -2,7 +2,7 @@
 using System.Collections;
 using System.Collections.Generic;
 
-namespace Greysource
+namespace QList
 {
     public class QList<T> : IEnumerable<T>
     {
