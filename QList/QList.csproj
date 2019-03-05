@@ -3,6 +3,10 @@
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
     <RootNamespace>QList</RootNamespace>
+    <Authors>Andrzej Ból</Authors>
+    <Description>fast double linked list implementation</Description>
+    <RepositoryUrl>https://github.com/b-y-t-e/QList</RepositoryUrl>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
   </PropertyGroup>
 
 </Project>
