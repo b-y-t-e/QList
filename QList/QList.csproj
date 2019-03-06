@@ -7,6 +7,7 @@
     <Description>fast double linked list implementation</Description>
     <RepositoryUrl>https://github.com/b-y-t-e/QList</RepositoryUrl>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Version>1.0.1</Version>
   </PropertyGroup>
 
 </Project>
